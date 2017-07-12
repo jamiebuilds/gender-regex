@@ -1,0 +1,9 @@
+{
+  "name": "gender-regex",
+  "version": "1.0.0",
+  "description": "Regex to test for valid genders",
+  "main": "index.js",
+  "repository": "thejameskyle/gender-regex",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT"
+}

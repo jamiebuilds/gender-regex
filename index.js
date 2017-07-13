@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = /.*/;
+module.exports = /\b(fe)?male\b/i;
